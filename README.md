@@ -1,5 +1,5 @@
 # Class_Activation_Map_PyTorch
-This is an implementation of class activation map generation on the MNIST dataset using LeNet. [This](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) paper had been referred to for this this implementation.
+This is an implementation of class activation map generation on the MNIST dataset using LeNet. [This](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) paper has been referred to for this this implementation.
 
 ## Results:
 The image on the left is the original image and the one on the right shows the regions responsible for influencing the output.
